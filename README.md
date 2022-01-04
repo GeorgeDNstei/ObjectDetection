@@ -1,5 +1,6 @@
 # ObjectDetection
-Download weights dan file cfg yang akan digunakan melalui https://pjreddie.com/darknet/yolo/
+![image_detected](https://user-images.githubusercontent.com/89344186/148072481-11677450-6e36-4431-a2e2-4f45a4a087c4.jpg)
+Download weights dan file cfg yang akan digunakan melalui https://pjreddie.com/darknet/yolo/.
 Pada line 15, ubah (608, 608) sesuai weights yang digunakan. Pada tugas ini digunakan YOLOv3-608.
 line 15:
 ```
